@@ -13,4 +13,10 @@
 3. 웹 구축을 통하여 원하는 data를 한 눈에 볼 수 있도록 한다.
 
 # Skill
-DataBase : postgresql
+Language : python 3.8.2
+
+Deployment : EC2
+
+Database : postgresql
+
+Application Framework : Django
